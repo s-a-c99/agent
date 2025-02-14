@@ -33,7 +33,7 @@ FINAL ANSWER: Task added: buy milk
 ## TODO
 🔄 Improve multi-step reasoning
 ⚡ Add memory persistence
-🌍 Deploy as an API
+🌎 Deploy as an API
 
 ## 📜 License  
 MIT 
