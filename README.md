@@ -15,7 +15,7 @@ A lightweight **LLM-powered agent** for managing a **to-do list**. Uses **Huggin
    ```bash
    pip install huggingface_hub transformers
    
-2.Set up Hugging Face API Token:
+2. Set up Hugging Face API Token:
    ```bash
    os.environ["HF_TOKEN"] = "your_api_key"
 
