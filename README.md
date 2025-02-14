@@ -7,13 +7,7 @@ A minimalist **agent framework LLM-powered** to-do list manager using **Zephyr-7
 - 📜 **List tasks**  
 - 🎯 **Tool calling via structured JSON**  
 
-## Installation  
-Install dependencies with:  
-```bash
-pip install -r requirements.txt
-```
-
-## Setup  
+## Quick Setup 
 1. Install dependencies:  
    ```bash
    pip install -r requirements.txt
