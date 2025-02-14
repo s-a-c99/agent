@@ -7,6 +7,14 @@ A minimalist **agent framework LLM-powered** to-do list manager using **Zephyr-7
 - 📜 **List tasks**  
 - 🎯 **Tool calling via structured JSON**  
 
+## Installation  
+Install dependencies with:  
+```bash
+pip install -r requirements.txt
+```
+# Set Hugging Face token (replace with your API key)
+export HF_TOKEN="hf_xxxxxxxx"
+
 ## Setup  
 1. Install dependencies:  
    ```bash
