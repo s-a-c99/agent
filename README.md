@@ -12,8 +12,10 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
-# Set Hugging Face token (replace with your API key)
+## Set Hugging Face token (replace with your API key)
+```bash
 export HF_TOKEN="hf_xxxxxxxx"
+```
 
 ## Setup  
 1. Install dependencies:  
