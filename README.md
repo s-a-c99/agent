@@ -1,8 +1,5 @@
-# my_1st_agent.py
-My First AI Agent – A minimalist agent framework LLM-powered to-do list manager using Zephyr-7B and Hugging Face Inference API. Supports add, remove, list tasks via tool calling.
-
 # My First AI Agent 🧠✅  
-A lightweight **LLM-powered agent** for managing a **to-do list**. Uses **Hugging Face's Inference API** with **Zephyr-7B**.  
+A minimalist **agent framework LLM-powered** to-do list manager using **Zephyr-7B** and **Hugging Face Inference API**. Implements JSON tool calling for atomic task management (add/remove/list).
 
 ## Features  
 - 📝 **Add tasks**  
