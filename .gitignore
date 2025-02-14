@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Hugging Face API keys (se salvi il token in un file)
+hf_token.txt  
+
+# Logs
+*.log  
+
+# VS Code settings
+.vscode/
