@@ -16,12 +16,15 @@ A lightweight **LLM-powered agent** for managing a **to-do list**. Uses **Huggin
    pip install huggingface_hub transformers
    
 2.Set up Hugging Face API Token:
-os.environ["HF_TOKEN"] = "your_api_key"
+   ```bash
+   os.environ["HF_TOKEN"] = "your_api_key"
 
 3. Run the script:
-python agent.py
+   ```bash
+   python agent.py
 
 Example Output
+```bash
 [DEBUG] Model: Thought: I need to add a task
 Action:
 {"action": "add_task", "action_input": {"task": "buy milk"}}
