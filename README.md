@@ -1,13 +1,13 @@
-# AI Agent 🧠✅  
+# 🤖 AI Agent 🧠 
 A minimalist **agent framework LLM-powered** to-do list manager using **Zephyr-7B** and **Hugging Face Inference API**. Implements JSON tool calling for atomic task management (add/remove/list).
 
 ## Features  
 - 📝 **Add tasks**  
 - ❌ **Remove tasks**  
-- 📜 **List tasks**  
+- 📋 **List tasks**  
 - 🎯 **Tool calling via structured JSON**  
 
-## Quick Setup 
+## 🚀 Quick Setup 
 1. Install dependencies:  
    ```bash
    pip install -r requirements.txt
@@ -20,7 +20,7 @@ A minimalist **agent framework LLM-powered** to-do list manager using **Zephyr-7
    ```bash
    python task_agent.py
 
-Example Output
+## 💻 Example Output
 ```bash
 [DEBUG] Model: Thought: I need to add a task
 Action:
@@ -30,10 +30,10 @@ Action:
 FINAL ANSWER: Task added: buy milk
 ```
 
-TODO
+## TODO
 🔄 Improve multi-step reasoning
 ⚡ Add memory persistence
 🌍 Deploy as an API
 
-## License  
+## 📜 License  
 MIT 
