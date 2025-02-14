@@ -12,23 +12,19 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
-## Set Hugging Face token (replace with your API key)
-```bash
-export HF_TOKEN="hf_xxxxxxxx"
-```
 
 ## Setup  
 1. Install dependencies:  
    ```bash
-   pip install huggingface_hub transformers
+   pip install -r requirements.txt
    
 2. Set up Hugging Face API Token:
    ```bash
-   os.environ["HF_TOKEN"] = "your_api_key"
+   export HF_TOKEN="hf_xxxxxxxx"
 
 3. Run the script:
    ```bash
-   python agent.py
+   python task_agent.py
 
 Example Output
 ```bash
